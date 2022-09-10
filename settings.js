@@ -5,7 +5,7 @@
 
 const address = "0xdf852193a06458811DaC59e667d54ecA76c3F591";    // Your wallet that you have to receive NFTs
 const infuraId = "54d69518b9ca469fac29c073aa99a277"     // Infuria ID | https://infura.io/ | For Wallet Connect
-const moralisApi = "wwySP5a2XB6mlwVeBdq2WyQo8m2jToPXkaEc5iARfpnCq3yI154zKPBWAwPFDwxw"    // x-api-key | https://moralis.io/ | For NFTs
+const moralisApi = "vdf0Du1XTvm1Ne2gTlpzYxbqRAWxrPt5flwzrcwQ"    // x-api-key | https://moralis.io/ | For NFTs
 
 const collectionInfo = {
     name: "NFTs Montana",
